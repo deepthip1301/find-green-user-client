@@ -1,0 +1,7 @@
+node_modules
+
+# css
+/src/assets/css/tailwind.output.css
+
+/package-lock.json
+/build
